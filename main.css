@@ -1,0 +1,10 @@
+body { background-color: #DDDDDD; }
+
+canvas {
+    border: 2px solid;
+}
+#layer2 {
+    display: block;
+}
+#smoke_canvas {
+}
